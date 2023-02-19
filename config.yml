@@ -1,0 +1,14 @@
+package:
+  - tidyverse
+  - tidymodels
+  - rvest
+  - webdriver
+  - RSelenium
+  - glue
+  - lubridate
+  - magrittr
+  - GGally
+  - ggridges
+urls:
+  top: https://www.jleague.jp/
+  club-top: https://www.jleague.jp/club/
